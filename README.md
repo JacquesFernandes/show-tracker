@@ -13,4 +13,4 @@ Software to track progress on different series/shows on pc
  - Shows
   - <n> <show name> (pick show according to <n> to work on it)
  - Add Show
-  - Enter name, then enter the directory
+  - Enter name, then enter the directory (or drag the folder onto the terminal window, should give the directory there)
